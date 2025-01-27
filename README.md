@@ -1,7 +1,9 @@
 # CATS: Contrastive Learning for Anomaly detection in Time Series
 
 This repository provides the code to implement CATS and reproduce the paper experiments.
-The paper is currently under the review and the code will be publicly available upon paper acceptance.
+The paper was accepted at [IEEE International Conference on Big Data 2024](https://bigdataieee.org/BigData2024).
+
+DOI: [CATS: Contrastive learning for Anomaly detection in Time Series](https://doi.org/10.1109/BigData62323.2024.10825476)
 
 ## CATS Architecture
 
